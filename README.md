@@ -29,11 +29,14 @@ Requerimientos:
 
 | Criterio                   | Puntaje |
 | -------------------------- | ------- |
-| Diseño Responsive          | 2       |
-| HTML Semántico             | 1       |
-| Funcionalidad              | 1.5     |
-| Despliegue en Github Pages | 0.5     |
+| Diseño Responsive          | 1.5/2       |
+| HTML Semántico             | 0.4/1       |
+| Funcionalidad              | 1.2/1.5     |
+| Despliegue en Github Pages | 0.5/0.5     |
 
+Nota parcial: 3.6 x 0.8 -> 2.88
+
+![image](https://github.com/DSAW-2024-1/parcial-sobre-4-lopezito52/assets/50994778/00fe9bac-24fc-4560-b0d4-e67f1f047030)
 
 
 link pagina: https://dsaw-2024-1.github.io/parcial-sobre-4-lopezito52/
